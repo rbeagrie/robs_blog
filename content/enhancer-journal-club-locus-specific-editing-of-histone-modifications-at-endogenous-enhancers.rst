@@ -1,7 +1,7 @@
 Enhancer Journal Club: Locus-specific editing of histone modifications at endogenous enhancers.
 ###############################################################################################
 :date: 2013-10-31 20:51
-:author: rbeagrie
+:author: Rob Beagrie
 :category: Enhancers, Journal Club
 :tags: enhancers, gene expression, histone modifications, Journal Club
 :slug: enhancer-journal-club-locus-specific-editing-of-histone-modifications-at-endogenous-enhancers

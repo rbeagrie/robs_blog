@@ -1,7 +1,7 @@
 Enhancer Journal Club: Rev-Erbs repress macrophage gene expression by inhibiting enhancer-directed transcription
 ################################################################################################################
 :date: 2013-07-11 09:07
-:author: rbeagrie
+:author: Rob Beagrie
 :category: Enhancers, Journal Club
 :slug: enhancer-journal-club-rev-erbs-repress-macrophage-gene-expression-by-inhibiting-enhancer-directed-transcription
 

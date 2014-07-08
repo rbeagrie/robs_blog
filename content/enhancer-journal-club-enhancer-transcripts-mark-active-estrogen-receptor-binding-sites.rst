@@ -1,7 +1,7 @@
 Enhancer Journal Club: Enhancer transcripts mark active estrogen receptor binding sites
 #######################################################################################
 :date: 2013-09-26 16:10
-:author: rbeagrie
+:author: Rob Beagrie
 :category: Enhancers, Journal Club
 :slug: enhancer-journal-club-enhancer-transcripts-mark-active-estrogen-receptor-binding-sites
 
