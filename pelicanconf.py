@@ -22,3 +22,6 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 PATH = "content"
+
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
