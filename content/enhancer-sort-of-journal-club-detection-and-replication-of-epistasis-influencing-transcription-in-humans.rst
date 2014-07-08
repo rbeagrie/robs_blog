@@ -2,7 +2,7 @@ Enhancer (sort of) Journal Club: Detection and replication of epistasis influenc
 ###########################################################################################################
 :date: 2014-04-03 08:44
 :author: Rob Beagrie
-:category: Enhancers, Journal Club
+:tags: Enhancers, Journal Club
 :slug: enhancer-sort-of-journal-club-detection-and-replication-of-epistasis-influencing-transcription-in-humans
 
 I thought I would write a short journal club on a paper that I really

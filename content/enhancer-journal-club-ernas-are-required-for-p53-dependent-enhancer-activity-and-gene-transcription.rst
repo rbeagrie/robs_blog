@@ -2,8 +2,7 @@ Enhancer Journal Club: eRNAs are required for p53-dependent enhancer activity an
 #####################################################################################################
 :date: 2013-11-25 10:03
 :author: Rob Beagrie
-:category: Enhancers, Journal Club
-:tags: cis regulation, DNA damage, enhancers, gene expression, P53
+:tags: Enhancers, Journal Club, cis regulation, DNA damage, enhancers, gene expression, P53
 :slug: enhancer-journal-club-ernas-are-required-for-p53-dependent-enhancer-activity-and-gene-transcription
 
 Back to eRNAs, and this time we're going to look at possible roles in

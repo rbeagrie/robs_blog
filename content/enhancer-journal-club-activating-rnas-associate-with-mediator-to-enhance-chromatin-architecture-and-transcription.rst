@@ -2,7 +2,7 @@ Enhancer Journal Club: Activating RNAs associate with Mediator to enhance chroma
 ##################################################################################################################
 :date: 2013-09-04 18:39
 :author: Rob Beagrie
-:category: Enhancers, Journal Club
+:tags: Enhancers, Journal Club
 :slug: enhancer-journal-club-activating-rnas-associate-with-mediator-to-enhance-chromatin-architecture-and-transcription
 
 Another paper for the enhancers/eRNAs Journal Club series. This time

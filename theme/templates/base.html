@@ -79,7 +79,7 @@
 			{% endfor %}
 	      </nav>
 	    {% endif %}
-		<a href="{{ SITEURL }}" class="title">{% filter upper %}{{ SITENAME }}{% endfilter %}</a>
+		<a href="/" class="title">{% filter upper %}{{ SITENAME }}{% endfilter %}</a>
       </header>
 	
 	  <div class="wrapper">
@@ -103,8 +103,8 @@
   	          <nav>
 	            <h2>Categories</h2>
 	            <ul>
-	              {% for cat, null in categories %}
-	                <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+	              {% for cat, null in tags %}
+	                <li {% if cat == tag %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
 	              {% endfor %}
 	            </ul>
 	          </nav>

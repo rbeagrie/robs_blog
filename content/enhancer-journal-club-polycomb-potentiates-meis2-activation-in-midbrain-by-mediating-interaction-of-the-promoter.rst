@@ -2,7 +2,7 @@ Enhancer Journal Club: Polycomb potentiates meis2 activation in midbrain by medi
 ####################################################################################################################
 :date: 2014-03-03 09:11
 :author: Rob Beagrie
-:category: Enhancers, Journal Club
+:tags: Enhancers, Journal Club
 :slug: enhancer-journal-club-polycomb-potentiates-meis2-activation-in-midbrain-by-mediating-interaction-of-the-promoter
 
 Much of the tissue specific gene-expression required for development

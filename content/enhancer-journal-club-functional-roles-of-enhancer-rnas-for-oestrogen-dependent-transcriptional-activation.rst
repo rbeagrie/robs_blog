@@ -2,7 +2,7 @@ Enhancer Journal Club: Functional roles of enhancer RNAs for oestrogen-dependent
 ###########################################################################################################
 :date: 2013-08-02 12:33
 :author: Rob Beagrie
-:category: Enhancers, Journal Club
+:tags: Enhancers, Journal Club
 :slug: enhancer-journal-club-functional-roles-of-enhancer-rnas-for-oestrogen-dependent-transcriptional-activation
 
 **Update 12/08/2013:** I've added a plain english summary of this paper
