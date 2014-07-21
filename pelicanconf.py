@@ -5,13 +5,14 @@ from __future__ import unicode_literals
 AUTHOR = u'Rob Beagrie'
 SITENAME = u"Rob Beagrie's Blog"
 SITEURL = ''
+DISQUS_SITENAME = 'robbeagriesblog'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_ATOM = 'atom/all.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 SUMMARY_MAX_LENGTH = 50

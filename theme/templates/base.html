@@ -144,14 +144,24 @@
 
 	</div>
 	
-	{% if GOOGLE_ANALYTICS %}
-	  <script>
-		var _gaq=[['_setAccount','{{ GOOGLE_ANALYTICS }}'],['_trackPageview']];
-		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-		g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-		s.parentNode.insertBefore(g,s)}(document,'script'));
-	  </script>
-    {% endif %}
+    <!-- Piwik -->
+    <script type="text/javascript">
+  var _paq = _paq || [];
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+      _paq.push(["setCookieDomain", "*.rob.beagrie.com"]);
+        _paq.push(["setDomains", ["*.rob.beagrie.com","*.blog.rob.beagrie.com"]]);
+          _paq.push(["trackPageView"]);
+            _paq.push(["enableLinkTracking"]);
+
+              (function() {
+                   var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.radiantskylabs.co.uk:8881/";
+                       _paq.push(["setTrackerUrl", u+"piwik.php"]);
+                           _paq.push(["setSiteId", "4"]);
+                               var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+                                   g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+                                     })();
+    </script>
+    <!-- End Piwik Code -->
 
 </body>
 </html>

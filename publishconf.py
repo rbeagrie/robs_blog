@@ -13,10 +13,11 @@ from pelicanconf import *
 SITEURL = 'http://blog.rob.beagrie.com'
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+FEED_ALL_ATOM = 'atom/all.atom.xml'
+CATEGORY_FEED_ATOM = 'atom/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
+THEME = 'theme'
 
 # Following items are often useful when publishing
 
