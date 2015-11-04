@@ -1,5 +1,5 @@
 Enhancer Journal Club: Genome-wide identification and characterization of functional neuronal activity–dependent enhancers
-#######################################################################################
+##########################################################################################################################
 :date: 2014-10-01 16:10
 :author: Rob Beagrie
 :tags: Enhancers, Journal Club, Neurons, FOS

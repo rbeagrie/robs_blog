@@ -19,10 +19,14 @@ SUMMARY_MAX_LENGTH = 50
 
 DEFAULT_PAGINATION = 10
 
+PLUGIN_PATHS = ['/home/rab11/repos/pelican-plugins']
+PLUGINS = ['simple_footnotes']
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
 PATH = "content"
+STATIC_PATHS = ['images']
 
 ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
