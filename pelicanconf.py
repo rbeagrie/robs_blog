@@ -21,7 +21,7 @@ SUMMARY_MAX_LENGTH = 50
 DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ['theme/plugins']
-PLUGINS = ['simple_footnotes', 'html_entity']
+PLUGINS = ['simple_footnotes']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
