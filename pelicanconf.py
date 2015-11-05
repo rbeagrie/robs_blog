@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = u'Rob Beagrie'
 SITENAME = u"Rob Beagrie's Blog"
@@ -19,8 +20,8 @@ SUMMARY_MAX_LENGTH = 50
 
 DEFAULT_PAGINATION = 10
 
-PLUGIN_PATHS = ['/home/rab11/repos/pelican-plugins']
-PLUGINS = ['simple_footnotes']
+PLUGIN_PATHS = ['theme/plugins']
+PLUGINS = ['simple_footnotes', 'html_entity']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
