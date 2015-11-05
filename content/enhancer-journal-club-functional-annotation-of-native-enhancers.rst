@@ -8,13 +8,13 @@ Enhancer Journal Club: Functional annotation of native enhancers with a Cas9-his
 I really enjoyed Eric Mendenhall's 2013 paper in Nature
 Biotechnology[ref](`Mendenhall, E. M. et al., Locus-specific editing of histone
 modifications at endogenous enhancers. Nat. Biotechnol. 31: 1133-1136 (2013).
-<dx.doi.org/10.1038/nbt.2701>`_)[/ref], where he was able to target LSD1
+<http://dx.doi.org/10.1038/nbt.2701>`_)[/ref], where he was able to target LSD1
 histone demethylase activity to endogenous enhancers using TALE fusion proteins
-(read my thoughts on that paper here). So I was very interested to see a
+(read my thoughts on that paper `here </2013/10/31/enhancer-journal-club-locus-specific-editing-of-histone-modifications-at-endogenous-enhancers>`_). So I was very interested to see a
 similar approach published earlier this year in Nature Methods[ref](`Kearns N.
 A. et al., Functional annotation of native enhancers with a Cas9-histone
 demethylase fusion. Nat. Methods 12:401-403 (2015).
-<dx.doi.org/10.1038/nmeth.3325>`_)[/ref]. In this new paper, René Maehr's group
+<http://dx.doi.org/10.1038/nmeth.3325>`_)[/ref]. In this new paper, René Maehr's group
 at UMass attempt to identify functional endogenous enhancers using a Cas9:LSD1
 fusion protein.
 
@@ -83,7 +83,7 @@ There have been some extremely successful screening approaches developed in the
 past few years based on sequencing of shRNAs. For example, in Kagey *et al.*
 (2010)[ref](`Kagey M. H. et al., Mediator and cohesin connect gene expression
 and chromatin architecture. Nature 467: 430-435 (2010).
-<dx.doi.org/10.1038/nature09930>`_)[/ref] Rick Young's lab treated cells with a
+<http://dx.doi.org/10.1038/nature09930>`_)[/ref] Rick Young's lab treated cells with a
 pool of shRNAs, used FACS to sort them for Oct4 expression and then identified
 shRNAs over-represented in cells with low Oct4 expression.  A similar approach
 could be applied to the Cas9:LSD1 system, where by transfecting with a pool of
